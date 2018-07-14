@@ -1,0 +1,49 @@
+body {
+    background-color: cornflowerblue;
+    margin-bottom: 60px;
+}
+
+#header {
+    background-color: rgb(17, 94, 94);
+    height: 60px;
+}
+
+#HeaderName {
+    text-align: center;
+    padding-top: 15px;
+}
+
+#wrap {
+    background-color: rgb(83, 107, 151);
+}
+
+#gifButtons {
+    padding: 3px;
+}
+
+#gifSection {
+    margin-top:20px;
+}
+
+#pickGif {
+    padding: 20px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    text-align:center;
+    background-color: rgb(102, 96, 96);    
+}
+
+.BottomText {
+    color: violet;
+}
+
+.gifBox {
+    border: 2px;
+    border-color: blue;
+}
